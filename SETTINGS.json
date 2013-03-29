@@ -1,5 +1,4 @@
 {
-    "train_labels_path": "$DataPath/CauseEffectPairs/Competition/train.csv",
     "train_pairs_path": "$DataPath/CauseEffectPairs/Competition/CEdata_train_pairs.csv",
     "train_target_path": "$DataPath/CauseEffectPairs/Competition/CEdata_train_target.csv",
     "train_info_path": "$DataPath/CauseEffectPairs/Competition/CEdata_train_publicinfo.csv",
